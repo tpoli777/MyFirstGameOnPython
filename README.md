@@ -12,15 +12,15 @@ Shoot - ↑
 
 ESC - close the game (This is the only way to close this game normaly)
 
-![python3.12_XO93isu5mv.png](..%2F..%2FDocuments%2FShareX%2FScreenshots%2F2024-08%2Fpython3.12_XO93isu5mv.png)
+![](img%2Fpython3.12_XO93isu5mv.png)
 
 # Power Ups
 
-![powerupYellow_bolt.png](img%2Fpowerups%2FpowerupYellow_bolt.png) - To restore HP
+![](img%2Fpowerups%2FpowerupYellow_bolt.png) - To restore HP
 
-![powerupYellow_shield.png](img%2Fpowerups%2FpowerupYellow_shield.png) - Give you invincible for a while
+![](img%2Fpowerups%2FpowerupYellow_shield.png) - Give you invincible for a while
 
-![powerupYellow_star.png](img%2Fpowerups%2FpowerupYellow_star.png) - Make you stronger for a while
+![](img%2Fpowerups%2FpowerupYellow_star.png) - Make you stronger for a while
 
 # How to run
 
